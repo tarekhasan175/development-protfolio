@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 28px;
+}
+p{
+    font-size: 18px;
+}
+section{
+    display: flex;
+}
+.name{
+    color: #2DB1FF;
+}
+.descrive-helf{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+.image-helf img{
+    width: 100%;
+}
+.hire-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    background-image: linear-gradient(#2DB1FF, #3c839b);
+    padding: 10px 40px;
+}
+.top-banner{
+    background-image: url(image/Desktop\ -\ 1.png);
+    background-repeat: no-repeat;
+    
+}
